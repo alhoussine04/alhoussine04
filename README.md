@@ -32,3 +32,8 @@ Desktop app that enforces workspace rules for blocked, protected, auto-launch, a
 C/C++, Qt, PostgreSQL — Dec 2024 · 4-member team
 Cross-platform health-monitoring simulator. I contributed 1,500+ lines of production-quality C/C++ code, and translated requirements into UML use case, sequence, and state diagrams before implementation.
 → [kirat04/radotech](https://github.com/kirat04/radotech) — team repo, hosted by a teammate
+
+
+### Personal Website
+
+[![Personal Website](personal-website.png)](https://alhoussine04.github.io/Personal-Website/)
