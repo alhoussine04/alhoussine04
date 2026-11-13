@@ -1,4 +1,4 @@
-# Hi, I'm Alhoussine Khallil 👋
+# Hi, I'm Hussein Khallil 👋
 
 Computer Science graduate from Carleton University (Honours, Business Minor, 2025), based in Ottawa, ON. I build reliable, system-level software — especially in C / C++ and embedded systems, with Python for AI-enabled tools on Linux and Raspberry Pi.
 
